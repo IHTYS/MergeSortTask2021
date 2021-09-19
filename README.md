@@ -1,4 +1,4 @@
-# FilesExternalMergeSort
+# MergeSortFilesTask
 тестовое задание ШИФТ сентябрь 2021
 
 
